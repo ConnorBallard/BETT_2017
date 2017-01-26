@@ -1,2 +1,2 @@
-# BETT_2017
+# BETT 2017
 Intro to Github
